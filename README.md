@@ -1,2 +1,2 @@
 # PMCWiki
-Wiki for physics, with the mathematics behind and coding applied.
+Wiki for physics, with the mathematics behind and codes applied.
